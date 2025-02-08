@@ -1,6 +1,7 @@
 <div align="center">
   
 # Hello, I'm Mieun Jeong 👋
+I'm on my journey to becoming a data engineer. 😎😎
   
 </div>
 <div align="center">
